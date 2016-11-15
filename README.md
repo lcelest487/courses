@@ -1,4 +1,4 @@
-Ôªø# courses
+# courses
 Sudan,Gurleen Kaur,November 2,7:39pm
 Matthew Ell added 2015_05_26 6:30PM
 Meghan Jordan added 9:46AM
@@ -15,11 +15,11 @@ William Johnson dos Santos Okano added 03:05 AM
 Daniel Sim
 Jose Lucas Silva Freitas added 1:26 AM
 Luiz Henrique Quevedo Lima added 3:44 PM
-Barak Michaely (√£¬Å?-√¢‚Ç¨?_ √¢‚Ç¨? )√£¬Å?
+Barak Michaely („Å?-‚Ä?_ ‚Ä? )„Å?
 Kevin Buono  
 Bruno Aires de Sousa
 Luiz Henrique Leite Paes da Costa 10:40 PM
-Hua Yin 01¬£¬∫40 AM
+Hua Yin 01£∫40 AM
 Alex Ortiz
 Tiarah Simon
 Hanna Shaikh
@@ -73,7 +73,7 @@ Marcus Ferreira. February 21 2016, 09:15PM
 Jose Renato da Silva Andrade. February 22 2016, 12:02AM
 Peedro Borges Pio. February 22 2016, 11:40AM
 Arfhan Ahmad. February 22 2016 11:00PM
-Si√© Ramiz Barro , Hello world
+SiÈ Ramiz Barro , Hello world
 Evis Lazimi, Hello
 Alvarez Rony, June 2 2016 12:24AM
 Greg Goldberg, June 2, 2016 12:02PM 
@@ -94,7 +94,7 @@ Lionnel Patrick DOOKO, 24 juin 2016, 01:24 PM
 Leonie NDOYE ; June 24 ; 4:02 PM
 Gueye Maguette, 24 juin 2016, 02:43 PM
 Jimmy Glorial MANDABRANDJA ; June 24 ; 03:07 PM
-Nd√®ye Aminata MBENGUE ; June 24 2016 ; 22:20
+NdËye Aminata MBENGUE ; June 24 2016 ; 22:20
 Jones, Rawle, June 27 2016, 1:42 AM
 Abdou Lahad SYLLA July 08, 14:13
 
@@ -136,3 +136,4 @@ Carratala, Kasey, November 14, 2016 1:24 PM
 Sims, Zakiya, November 14, 2016 3:38 PM
 Tsatsis, Christopher, November 14, 2016 5:36 PM
 Li, Ted, November 14, 2016 10:07 PM
+Celestin, Luc, November 14, 2016 11:20 PM
